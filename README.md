@@ -47,7 +47,12 @@ To run the Ethereum Explorer web app locally, follow these steps:
    ```
    python manage.py runserver
    ```
-![App](https://github.com/devumang096/Ethereum-App/blob/master/img.png?raw=true)
+![image](https://github.com/kalashshandilya/CA3-Django/assets/81811583/60ff7897-2420-443f-a427-1618f948af82)
+
+
+![image](https://github.com/kalashshandilya/CA3-Django/assets/81811583/2f856ac6-b16b-4b40-b778-c6f5dbb0cf11)
+
+
 
 8. Open your web browser and visit `http://localhost:8000` to access the Ethereum Explorer web app.
 
